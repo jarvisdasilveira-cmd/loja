@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jarvisdasilveira-cmd.github.io/loja/sitemap.xml
